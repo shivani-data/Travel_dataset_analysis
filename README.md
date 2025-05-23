@@ -1,5 +1,5 @@
 # 📊 SQL Exploratory Data Analysis: Indian Travel Dataset
--> Welcome to this SQL-powered Exploratory Data Analysis (EDA) project based on the Indian Travel Dataset.
+-> Welcome to this SQL-powered Exploratory Data Analysis (EDA) project based on the Indian Travel Dataset. <br />
 -> This project demonstrates how SQL can be used to clean, explore, and draw insights from real-world tabular data using foundational to intermediate SQL queries.
 
 ## 🗺️ Dataset Overview
@@ -44,7 +44,7 @@ Applying aggregate functions to generate insights
 Presenting findings in a notebook format for clarity
 
 ## 🏁 Conclusion
--> This project is a solid example of how SQL can be used to analyze and summarize data outside of a business context — in this case, for planning travel.
+-> This project is a solid example of how SQL can be used to analyze and summarize data outside of a business context — in this case, for planning travel.<br />
 -> It also highlights how basic SQL operations can lead to meaningful insights with clean data and the right questions.
 
 ## 🌟 Connect & Share
