@@ -4,7 +4,7 @@ Welcome to this SQL-powered Exploratory Data Analysis (EDA) project based on the
 ## 🗺️ Dataset Overview
 Title: Travel Dataset: Guide to India's Must See Places
 
-Source: Kaggle (Link)(https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places)
+Source: Kaggle (<alt="Link"/>)(https://www.kaggle.com/datasets/saketk511/travel-dataset-guide-to-indias-must-see-places)
 
 Contents: Information about Indian tourist destinations, including state, region, type (e.g., adventure, spiritual), estimated ideal duration, ratings, and more.
 
