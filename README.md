@@ -1,7 +1,7 @@
 # 📊 SQL Exploratory Data Analysis: Indian Travel Dataset
--> Welcome to this SQL-powered Exploratory Data Analysis (EDA) project based on the Indian Travel Dataset. 
+## Welcome to this SQL-powered Exploratory Data Analysis (EDA) project based on the Indian Travel Dataset. 
 
--> This project demonstrates how SQL can be used to clean, explore, and draw insights from real-world tabular data using foundational to intermediate SQL queries.
+This project demonstrates how SQL can be used to clean, explore, and draw insights from real-world tabular data using foundational to intermediate SQL queries.
 
 ## 🗺️ Dataset Overview
 Title: Travel Dataset: Guide to India's Must See Places
@@ -27,13 +27,18 @@ Python (for SQL execution )
 Pandas (for result presentation)
 
 ## 📌 Key SQL Tasks Performed
--> Task	SQL Concepts Used -- <br />
--Inspect schema ->	SELECT *, LIMIT <br />
--Clean null values & duplicates	WHERE, IS NULL, DISTINCT <br />
--Analyze travel types and categories	GROUP BY, COUNT(), ORDER BY <br />
--Destination popularity ranking	ORDER BY, LIMIT <br />
--Compare states by destination count	GROUP BY, COUNT() <br />
--Filter top-rated spiritual and adventure spots	WHERE, AND, OR <br />
+### Task	SQL Concepts Used -- <br />
+Inspect schema ->	SELECT *, LIMIT 
+
+Clean null values & duplicates	WHERE, IS NULL, DISTINCT 
+
+Analyze travel types and categories	GROUP BY, COUNT(), ORDER BY 
+
+Destination popularity ranking	ORDER BY, LIMIT 
+
+Compare states by destination count	GROUP BY, COUNT() 
+
+Filter top-rated spiritual and adventure spots	WHERE, AND, OR 
 
 ## 🧠 Skills Demonstrated
 Translating business/travel questions into SQL queries
@@ -45,9 +50,9 @@ Applying aggregate functions to generate insights
 Presenting findings in a notebook format for clarity
 
 ## 🏁 Conclusion
--> This project is a solid example of how SQL can be used to analyze and summarize data outside of a business context — in this case, for planning travel.
+This project is a solid example of how SQL can be used to analyze and summarize data outside of a business context — in this case, for planning travel.
 
--> It also highlights how basic SQL operations can lead to meaningful insights with clean data and the right questions.
+It also highlights how basic SQL operations can lead to meaningful insights with clean data and the right questions.
 
 ## 🌟 Connect & Share
 If you found this project helpful, consider:
